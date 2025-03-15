@@ -1,0 +1,8 @@
+C:\Users\Bruno\source\repos\ToggleDualMonitorPointer\ToggleDualMonitorPointer\bin\Release\net8.0-windows\publish\Images\icon.ico
+C:\Users\Bruno\source\repos\ToggleDualMonitorPointer\ToggleDualMonitorPointer\bin\Release\net8.0-windows\publish\ToggleDualMonitorPointer.exe
+C:\Users\Bruno\source\repos\ToggleDualMonitorPointer\ToggleDualMonitorPointer\bin\Release\net8.0-windows\publish\ToggleDualMonitorPointer.dll
+C:\Users\Bruno\source\repos\ToggleDualMonitorPointer\ToggleDualMonitorPointer\bin\Release\net8.0-windows\publish\ToggleDualMonitorPointer.deps.json
+C:\Users\Bruno\source\repos\ToggleDualMonitorPointer\ToggleDualMonitorPointer\bin\Release\net8.0-windows\publish\ToggleDualMonitorPointer.runtimeconfig.json
+C:\Users\Bruno\source\repos\ToggleDualMonitorPointer\ToggleDualMonitorPointer\bin\Release\net8.0-windows\publish\ToggleDualMonitorPointer.pdb
+C:\Users\Bruno\source\repos\ToggleDualMonitorPointer\ToggleDualMonitorPointer\bin\Release\net8.0-windows\publish\Gma.System.MouseKeyHook.dll
+C:\Users\Bruno\source\repos\ToggleDualMonitorPointer\ToggleDualMonitorPointer\bin\Release\net8.0-windows\publish\Newtonsoft.Json.dll
